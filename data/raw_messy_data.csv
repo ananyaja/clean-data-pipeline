@@ -1,0 +1,9 @@
+transaction_id,customer_name,signup_date,purchase_amount,status
+1001.0,  Alice Smith,2026-01-15,$150.00,Completed
+1002.0,Bob Jones ,15/01/2026, 200.5 ,Pending
+1003.0,Charlie Brown,2026-01-18,$310.25,Completed
+1001.0,  Alice Smith  ,2026-01-15,$150.00,Completed
+1004.0,Diana Prince,InvalidDate,N/A,Failed
+1005.0,Ethan Hunt,2026-01-20,450.00,Completed
+,Fiona Glenanne,2026-01-21,125.75,Pending
+1006.0,  George Clark,2026/01/22, $99.99 ,Completed
